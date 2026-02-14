@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mustafa Mahmoud</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Specialist</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Mustafa Mahmoud</h1>
+  <h3>Full-Stack Developer | MERN Stack Specialist</h3>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mustafa-Mahmoud-Ahmed.Mustafa-Mahmoud-Ahmed" alt="visitors">
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+🚀;MERN+Stack+Specialist;React+and+Next.js+Expert;Problem+Solver" alt="Typing SVG" />
+</div>
 
 ---
+
 
 ### 📖 About Me
 

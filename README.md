@@ -39,14 +39,15 @@ Motivated full-stack developer with relevant expertise in IT support, problem-so
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Mahmoud-Ahmed&theme=radical&hide_border=true&show_icons=true" alt="Mustafa Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Mahmoud7&theme=radical&hide_border=true&show_icons=true" alt="Mustafa Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?userMustafa-Mahmoud-Ahmed&theme=radical&hide_border=true" alt="Mustafa Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Mahmoud7&theme=radical&hide_border=true" alt="Mustafa Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Mahmoud-Ahmed&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Mahmoud7&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
+
 ### 🌐 Connect With Me
 
 <p align="center">

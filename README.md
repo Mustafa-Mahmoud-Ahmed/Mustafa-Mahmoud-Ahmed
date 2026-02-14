@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Mustafa Mahmoud</h1>
   <h3>Full-Stack Developer | MERN Stack Specialist</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+🚀;MERN+Stack+Specialist;React+and+Next.js+Expert;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+;MERN+Stack+Specialist;React+and+ِAngular+Expert;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
@@ -39,15 +39,14 @@ Motivated full-stack developer with relevant expertise in IT support, problem-so
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Mahmoud-Ahmed&theme=radical&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Mahmoud-Ahmed&theme=radical&hide_border=true&show_icons=true" alt="Mustafa Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Mahmoud-Ahmed&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?userMustafa-Mahmoud-Ahmed&theme=radical&hide_border=true" alt="Mustafa Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Mahmoud-Ahmed&theme=radical&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Mahmoud-Ahmed&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
-
 ### 🌐 Connect With Me
 
 <p align="center">

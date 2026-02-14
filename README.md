@@ -5,19 +5,19 @@
 
 ## 🚀 About Me
 
- Motivated full-stack developer with relevant expertise in IT support, problem-solving, and web development. Experienced in creating responsive and scalable applications using the latest front-end and back-end<br>technologies. I am seeking a challenging position where I can utilize my technical skills and contribute to innovative<br>software solutions, both locally and globally.
+ Motivated full-stack developer with relevant expertise in IT support, problem-solving, and web development. Experienced in creating responsive and scalable applications using the latest front-end and back-endtechnologies. I am seeking a challenging position where I can utilize my technical skills and contribute to innovative<br>software solutions, both locally and globally.
 
 🎓 Faculty of Computers and Information, South Valley University (2024)
 
 🔥 Specialized in MERN Stack & Modern Web Technologies
 
-🚀 Expertise:
+🚀 Expertise:<br>
 
-Frontend: React.js, Angular, Next.js, TypeScript
-Backend: Node.js, Express.js, MongoDB, RESTful APIs
-Authentication: JWT, OAuth
-Real-time: Socket.io, Firebase
-UI/UX: Figma, Responsive Design, Bootstrap, SASS, Tailwind CSS 
+Frontend: React.js, Angular, Next.js, TypeScript<br>
+Backend: Node.js, Express.js, MongoDB, RESTful APIs<br>
+Authentication: JWT, OAuth<br>
+Real-time: Socket.io, Firebase<br>
+UI/UX: Figma, Responsive Design, Bootstrap, SASS, Tailwind CSS<br>
 
 ---
 
@@ -48,7 +48,7 @@ UI/UX: Figma, Responsive Design, Bootstrap, SASS, Tailwind CSS
 
 ---
 
-## 💰 You can help me by Donating
+## 💰 Wallet
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/moustafa.mahnoud2024@gmail.com) 
 
 ---
